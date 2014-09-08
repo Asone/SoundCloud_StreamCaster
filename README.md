@@ -60,7 +60,7 @@ tip : max_db can't retrieve more thant 200 favs at once due to soundcloud restri
 You might want to create routines invoking the scripts. In order to do so it is recommended you use RVM. If you don't know how to do that here's some useful documentation : 
 
  - Linux : [Create routines with Cron and RVM](http://rvm.io/integration/cron)
- - Mac OS : [Create routines with launchd and RVM](http://rvm.io/integration/cron)
+ - Mac OS : [Create routines with launchd and RVM](http://notes.jerzygangi.com/creating-a-ruby-launchd-task-with-rvm-in-os-x/)
  - Windows : Suck it up, i don't know how to do that and i don't care
 
 
