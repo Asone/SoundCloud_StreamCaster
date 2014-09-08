@@ -1,7 +1,7 @@
-SoundJob
+SoundCloud_StreamCaster
 =========
 
-Sound job is a set of 2 small ruby scripts in order to download favorites from soundcloud. 
+SoundCloud_StreamCaster is a set of 2 small ruby scripts in order to download favorites from soundcloud. 
 
 - db_routine.rb : retrieves list of last favorites and stores it into db.json file
 - sc_downloader.rb : reads the db.json file and stores streams to local storage
