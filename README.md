@@ -9,7 +9,7 @@ SoundCloud_StreamCaster is a set of 2 small ruby scripts in order to download fa
 Requirements
 ---
 
-In order to use soundjob you will need an access to the API. You can register tokens here. Once done you'll just have to copy-paste your tokens into the config.yml file
+In order to use SoundCloud_StreamCaster you will need an access to the API. You can register tokens here. Once done you'll just have to copy-paste your tokens into the config.yml file
 
 
 Install & Use
@@ -72,7 +72,7 @@ Version
 Is this legal ? 
 -----------
 
-SoundJob should be considered as having a normal behavior regarding the user licence and developper licence if the script is used for personal purpose only.
+SoundCloud_StreamCaster should be considered as having a normal behavior regarding the user licence and developper licence if the script is used for personal purpose only.
 
 The script only downloads the songs available as streams so it does not override any particular protection. 
 
