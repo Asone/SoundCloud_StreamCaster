@@ -40,7 +40,7 @@ gem install fileutils
 **clone the repo  :** 
 
 ```sh
-git clone [git-repo-url] dillinger
+git clone git@github.com:Asone/SoundCloud_StreamCaster.git
 
 ```
 
